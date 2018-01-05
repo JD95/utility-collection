@@ -1,0 +1,3 @@
+* utility collection
+
+a collection of utilities that I've made for myself, mostly in Haskell
